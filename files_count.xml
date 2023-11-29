@@ -1,35 +1,35 @@
 <?xml version="1.0"?>
 <pagescount>
-	<html_total>70</html_total>
-	<html_done>70</html_done>
-	<images>49</images>
+	<html_total>1223</html_total>
+	<html_done>1223</html_done>
+	<images>5231</images>
 	<script>15</script>
 	<css>11</css>
-	<pdf/>
+	<pdf>10</pdf>
 	<documents/>
 	<excel/>
 	<powerpoint/>
 	<flash/>
 	<audios/>
-	<videos/>
+	<videos>1</videos>
 	<xml/>
 	<json/>
 	<txt/>
 	<autocad/>
 	<fonts>4</fonts>
-	<scraping_reload>1</scraping_reload>
+	<scraping_reload>5</scraping_reload>
 	<is_pretty_url>false</is_pretty_url>
 	<is_ebn>false</is_ebn>
 	<email>dmor83@gmail.com</email>
-	<theme_name>WmdTheme777916</theme_name>
-	<server_url_front_page>https://www6.waybackmachinedownloader.com/wdo/files/demo/vikingindia.com_dmor83_gmail.com_s1vgf0ch1j/</server_url_front_page>
+	<theme_name>xx95ylvdo6fgpk6rqu1na777947</theme_name>
+	<server_url_front_page>https://www6.waybackmachinedownloader.com/wdo/files/live/vikingindia.com_dmor83_gmail.com_cfxe6lzlfn/</server_url_front_page>
 	<no_www_url>vikingindia.com</no_www_url>
 	<hosted_domain/>
 	<original_archive_url>http://www.vikingindia.com</original_archive_url>
 	<final_archive_url>https://www.vikingindia.com/</final_archive_url>
 	<front_page_code_date/>
 	<total_urls_from_api/>
-	<max_reached_live>false</max_reached_live>
+	<max_reached_live>level</max_reached_live>
 	<scrape_other_captures>false</scrape_other_captures>
-	<total_size>5168</total_size>
+	<total_size>347968</total_size>
 </pagescount>
