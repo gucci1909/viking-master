@@ -273,7 +273,10 @@ ProductRoute.post("/water_heater", async (req, res) => {
 // update product
 ProductRoute.patch("/air_compressor/:id", async (req, res) => {
   let newProduct = req.body;
+  console.log({r:req});
   const { id } = req.params;
+
+  console.log({n:newProduct});
   let ans = await updateProduct(id, newProduct,"air_compressor");
   res.send(ans);
 });

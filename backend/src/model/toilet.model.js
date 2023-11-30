@@ -9,7 +9,7 @@ const toilet_schema = new Schema({
   height: { type: String, required: false },
   length: { type: String, required: false },
   width: { type: String, required: false },
-  art_no: { type: Number, required: false },
+  art_no: { type: String, required: false },
   finish: { type: String, required: false },
   material: { type: String, required: false },
 });

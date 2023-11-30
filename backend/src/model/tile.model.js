@@ -6,9 +6,7 @@ const tile_schema = new Schema({
   img2: { type: String, required: false },
   img3: { type: String, required: false },
   mrp: { type: Number, required: false },
-//   thread_size : { type: String, required: false},
   art_no: { type: Number, required: false },
-//   type:{ type: String, required: false },
   color: { type: String, required: false },
   material : {type :String, required:false }
 });

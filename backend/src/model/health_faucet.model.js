@@ -8,8 +8,8 @@ const health_faucet_schema = new Schema({
   mrp: { type: Number, required: false },
   position: {type: String ,required:false},
   dia: {type:String, required:false},
-  length : {type:Number,required:false},
-  height: {type:Number, required:false},
+  length : {type:String,required:false},
+  height: {type:String, required:false},
   finish: { type: String, required: false },
   material : {type :String, required:false }
 });
