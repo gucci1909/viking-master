@@ -65,7 +65,7 @@ function Product() {
       title: "Health Faucet & Jet Sets",
     },
     {
-      category: "mirros",
+      category: "mirrors",
       title: "Mirrors",
     },
     {

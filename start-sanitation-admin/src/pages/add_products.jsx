@@ -65,7 +65,7 @@ import {
         title: "Health Faucet & Jet Sets",
       },
       {
-        category: "mirros",
+        category: "mirrors",
         title: "Mirrors",
       },
       {
@@ -93,7 +93,7 @@ import {
         title: "Special/Unique Products",
       },
       {
-        category: "mirros",
+        category: "mirrors",
         title: "Mirrors",
       },
       {
