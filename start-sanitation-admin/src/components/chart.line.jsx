@@ -18,19 +18,19 @@ function LineChart() {
     }]
   }
   
-    useEffect(()=>{
-     const getData = async()=>{
-     let da = fetch('https://crimson-indri-sock.cyclic.app/order',{headers : {access_token : data.AccessToken}})
-     .then((er)=>er.json()).then((er)=>{
-      if(er.data.length !==0){
-        er.data.map((ele)=>{
-           setOs((prev)=>prev+ele.orderData.length)
-        })
-      }
-     })
-    }
-     getData();
-  },[])
+  //   useEffect(()=>{
+  //    const getData = async()=>{
+  //    let da = fetch('https://crimson-indri-sock.cyclic.app/order',{headers : {access_token : data.AccessToken}})
+  //    .then((er)=>er.json()).then((er)=>{
+  //     if(er.data?.length !==0){
+  //       er.data.map((ele)=>{
+  //          setOs((prev)=>prev+ele.orderData.length)
+  //       })
+  //     }
+  //    })
+  //   }
+  //    getData();
+  // },[])
   return (
     <Box className="chart-container" w='100%' m='auto'>
       <Line

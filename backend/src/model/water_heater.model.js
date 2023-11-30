@@ -7,7 +7,7 @@ const water_heater_schema = new Schema({
   img3: { type: String, required: false },
   mrp: { type: Number, required: false },
   thread_size : { type: String, required: false},
-  art_no: { type: Number, required: false },
+  art_no: { type: String, required: false },
   type:{ type: String, required: false },
   finish: { type: String, required: false },
   length : {type :String, required:false }
